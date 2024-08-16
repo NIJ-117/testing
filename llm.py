@@ -1,3 +1,5 @@
+#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
+
 import os
 from langchain_groq import ChatGroq
 from langchain_openai import OpenAI,ChatOpenAI
